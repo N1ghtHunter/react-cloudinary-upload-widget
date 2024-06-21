@@ -23,7 +23,7 @@ We use [Prettier](https://prettier.io/) to format our code. Please ensure that y
 
 ## Issues
 
-If you encounter any issues while working on [Project Name], please open an issue on the GitHub repository. We will do our best to respond to and resolve the issue as quickly as possible.
+If you encounter any issues while working on react-cloudinary-uploader, please open an issue on the GitHub repository. We will do our best to respond to and resolve the issue as quickly as possible.
 
 ## Pull Requests
 
@@ -36,4 +36,4 @@ When submitting a pull request, please ensure that:
 
 ## License
 
-By contributing to [Project Name], you agree that your contributions will be licensed under the [MIT License](https://opensource.org/licenses/MIT).
+By contributing to react-cloudinary-uploader, you agree that your contributions will be licensed under the [MIT License](https://opensource.org/licenses/MIT).
